@@ -33,6 +33,14 @@ Welcome to Bioverse, a decentralized platform where users can engage with each o
 
 ## Shepherd.Js
 
+### Learn more about it here 
+
+- https://shepherdpro.com/
+- https://shepherdjs.dev/docs/
+- https://github.com/shepherd-pro/shepherd
+- https://blog.shepherdpro.com/demo/
+- https://docs.shepherdpro.com/guides/install/
+
 Shepherd.js is used to provide guided tours in our application, enhancing user experience by highlighting key features and steps. The integration of Shepherd.js includes:
 
 - Tour Initialization: Setting up the tour with modal overlay and step options.
