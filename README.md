@@ -19,6 +19,8 @@ Deployed smartcontract address/id on stellar testnet-> CB4H75Q634VCPFL7VSP57FANU
 Welcome to Bioverse, a decentralized platform where users can engage with each other, earn tokens, and participate in various activities. Before diving into the platform, it's essential to familiarize yourself with some core principles and features.
 
 ## Tech Stack
+
+- Shepherd.js
 - Ethereum
 - Smart Contracts
 - HTML/CSS
@@ -29,8 +31,16 @@ Welcome to Bioverse, a decentralized platform where users can engage with each o
 - Soroban SDK
 - Rust
 
+## Shepherd.Js
+
+Shepherd.js is used to provide guided tours in our application, enhancing user experience by highlighting key features and steps. The integration of Shepherd.js includes:
+
+- Tour Initialization: Setting up the tour with modal overlay and step options.
+- Step Creation: Defining steps with text, target elements, and navigation buttons.
+- Tour Start: Automatically starting the tour when the component mounts to guide new users.
+
 ## Soroban SDK
-We utilized the Soroban SDK to develop the PolyFund smart contract for BioVerse, enabling efficient and secure fundraising for conservation projects. The contract includes features like setting funding targets, managing contributions, and ensuring transparency through contributor voting. Key functionalities include:
+Utilized the Soroban SDK to develop the PolyFund smart contract for BioVerse, enabling efficient and secure fundraising for conservation projects. The contract includes features like setting funding targets, managing contributions, and ensuring transparency through contributor voting. Key functionalities include:
 
 - Initialization: Setting up the funding manager, target amount, deadline, and minimum contribution.
 - Contribution Management: Accepting funds from contributors and updating their balances.
@@ -63,9 +73,6 @@ To begin your journey on BioVerse, follow these steps:
 3. **Engage with the Community**: Connect with other users, engage in discussions, share content, and participate in activities within the platform.
 
 4. **Earn Tokens**: By actively participating and contributing to the community, you can earn tokens.
-
-## Security and Privacy
-At BioVerse, we prioritize the security and privacy of our users. We employ robust encryption methods and adhere to strict privacy standards to ensure that your data remains safe and secure.
 
 ## Feedback and Support
 Your thoughts mean a lot to us! If you have any ideas, questions, or run into any problems using BioVerse, please don't hesitate to get in touch with our support team. Your feedback helps us make BioVerse better for everyone.
