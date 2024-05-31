@@ -8,6 +8,8 @@
 ## This is the Tokenomics for doing so -> 
 
 Deployed smartcontract address/id on stellar testnet-> CB4H75Q634VCPFL7VSP57FANUOWF6R2GJ5B6UZVPP62CUDNAE25FUNTC
+
+
 ![alt text](image.png)
 
 
