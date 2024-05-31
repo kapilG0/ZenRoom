@@ -1,4 +1,4 @@
-# BioVerse - Platform to Support BioHeritage
+# BioVerse
 
 [Watch the video on YouTube](https://youtu.be/NX7J4GHaBB0)
 
